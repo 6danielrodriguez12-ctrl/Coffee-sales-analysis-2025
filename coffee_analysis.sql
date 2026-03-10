@@ -1,6 +1,6 @@
 -- ==========================================================
 -- COFFEE SHOP SALES ANALYSIS - 2025
--- Author: Daniel Gonzalez Rodriguez
+-- Author: [Tu Nombre]
 -- Description: Database creation and data transformation
 -- ==========================================================
 
